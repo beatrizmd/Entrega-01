@@ -1,6 +1,8 @@
-body{
-	background: #FBFAE1;
+
+body {
+	background-image: url(https://cdn.wallpapersafari.com/31/44/H8Yn7K.jpg);
 }
+
 .cabecalho {
 	background: #FFFFFF;
 	width: 60%;
@@ -16,7 +18,7 @@ h1 {
 }
 
 h2 {
-	color: #F8C471;
+	color: #D9F1AC;
 	font-size: 20px;
 	text-align: center;
 	margin: 0;
@@ -28,4 +30,10 @@ h3 {
 	position: relative;
 	left: 5%;
 
+}
+
+section {
+	font-size: 20px;
+	text-align: justify;
+	align-content: center;
 }
